@@ -11,3 +11,5 @@
 * 5- Implement a basic toggle switch component 
 
 * 6- Create a componet that fetches data from an API and display it.
+
+* 7 - Build a timer that counts down from a specified time.
