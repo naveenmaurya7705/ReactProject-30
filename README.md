@@ -8,4 +8,6 @@
 
 * 4- Build a list component to display a list of items.  
  
-* 5- 
+* 5- Implement a basic toggle switch component 
+
+* 6- Create a componet that fetches data from an API and display it.
