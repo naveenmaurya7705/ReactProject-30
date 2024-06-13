@@ -2,6 +2,7 @@
 
 import './App.css'
 import One from './Task/One'
+import Three from './Task/Three'
 import Two from './Task/Two'
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
   return (
     <>
       {/* <One /> */}
-      <Two />
+      {/* <Two /> */}
+      <Three />
     </>
   )
 }

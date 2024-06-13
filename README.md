@@ -1,8 +1,9 @@
-# React + Vite
+# Tasks a listed below and I am going to handle one by one
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* 1- create a Hello world componet.
 
-Currently, two official plugins are available:
+* 2- create a increment counter and decrement counter
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 3- create a form that take user input and display it in the real time
+
+* 4- Build a list component to display a list of items.  
