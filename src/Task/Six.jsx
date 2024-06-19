@@ -4,11 +4,11 @@ import {React,useEffect, useState} from 'react'
 
 const Six = () => {
 
-    const[data ,setData] = useState(null)
+    const[data ,setData] = useState(null);
 useEffect(()=>{
-fetch('https://jsonplaceholder.typicode.com/posts')
+fetch('https://jsonplaceholder.typicode.com/posts/5')
 .then((Response) => Response.json())
-.then((data) => console.log(data));
+.then((data) => setData(data));
 })
 
   return (
