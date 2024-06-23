@@ -13,3 +13,7 @@
 * 6- Create a componet that fetches data from an API and display it.
 
 * 7 - Build a timer that counts down from a specified time.
+
+* 8 - Implement a simple to do list application with add and remove functionality
+
+* 9 - Create a component that changes its backgroud color when clicked
