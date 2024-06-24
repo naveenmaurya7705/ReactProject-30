@@ -5,6 +5,7 @@ import Eight from './Task/Eight'
 // import Five from './Task/Five'
 // import Four from './Task/Four'
 import Nine from './Task/Nine'
+import Ten from './Task/Ten';
 // import One from './Task/One'
 // import Seven from './Task/Seven'
 // import Six from './Task/Six'
@@ -24,7 +25,8 @@ function App() {
       {/* <Six /> */}
       {/* <Seven /> */}
       {/* <Eight /> */}
-      <Nine/>
+      {/* <Nine/> */}
+      <Ten />
       {/* {console.log("Naveen")} */}
       
     </>

@@ -66,3 +66,19 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+ul{
+  list-style: none;
+background-color: rgb(201, 196, 196);
+
+  
+}
+
+li{
+  text-decoration: none; 
+}
+ul li:hover{
+  background-color: aquamarine;
+  color: red;
+  
+}
