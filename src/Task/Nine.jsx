@@ -1,9 +1,19 @@
-// import React from 'react'
+import React, { useState } from 'react';
 
- export const Nine = () => {
+const Nine = () => {
+  const [bgcolor, setBgcolor] = useState('red');
+
+  const handleClick = () => {
+    const newColor = bgcolor === 'red' ? 'green' : 'white';
+    setBgcolor(newColor);
+  };
+
   return (
-    <div>Nine</div>
-  )
-}
+    <div onClick={handleClick}
+         style={{ backgroundColor: bgcolor, height: '170px', width: '180px', cursor: 'pointer', border: '1px solid red' }}>
+      Click me to change color
+    </div>
+  );
+};
 
-// export default Nine
+export default Nine;
