@@ -19,3 +19,7 @@
 * 9 - Create a component that changes its backgroud color when clicked.
 
 * 10 - Create a basic routing setup.
+
+* 11 - Create a component that display a random quote each time it is rendered.
+
+* 12 - Build a file Uploader component that allow users to upload images.

@@ -2,6 +2,7 @@
 
 // import './App.css'
 import Eight from './Task/Eight'
+import Elevan from './Task/Elevan';
 // import Five from './Task/Five'
 // import Four from './Task/Four'
 import Nine from './Task/Nine'
@@ -26,7 +27,8 @@ function App() {
       {/* <Seven /> */}
       {/* <Eight /> */}
       {/* <Nine/> */}
-      <Ten />
+      {/* <Ten /> */}
+      <Elevan />
       {/* {console.log("Naveen")} */}
       
     </>
